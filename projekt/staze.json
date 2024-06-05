@@ -1,0 +1,171 @@
+[
+    {
+        "staza": "BAHRAIN INTERNATIONAL CIRCUIT",
+        "lokacija":"Bahrain",
+        "krugovi":"57",
+        "duljina":"5.412"
+    },
+
+    {
+        "staza": "JEDDAH CORNICHE CIRCUIT",
+        "lokacija":"Saudi Arabia",
+        "krugovi":"50",
+        "duljina":"6.174"
+    },
+
+    {
+        "staza": "ALBERT PARK GRAND PRIX CIRCUIT",
+        "lokacija":"Australia",
+        "krugovi":"58",
+        "duljina":"5.278"
+    },
+
+    {
+        "staza": "SUZUKA CIRCUIT",
+        "lokacija":"Japan",
+        "krugovi":"53",
+        "duljina":"5.807"
+    },
+
+    {
+        "staza": "SHANGHAI INTERNATIONAL CIRCUIT",
+        "lokacija":"China",
+        "krugovi":"56",
+        "duljina":"5.451"
+    },
+
+    {
+        "staza": "MIAMI INTERNATIONAL AUTODROME",
+        "lokacija":"USA",
+        "krugovi":"57",
+        "duljina":"5.298"
+    },
+
+    {
+        "staza": "AUTODROMO INTERNAZIONALE ENZO E DINO FERRARI",
+        "lokacija":"Italy",
+        "krugovi":"63",
+        "duljina":"4.909"
+    },
+
+    {
+        "staza": "CIRCUIT DE MONACO",
+        "lokacija":"Monaco",
+        "krugovi":"78",
+        "duljina":"3.337"
+    },
+
+    {
+        "staza": "CIRCUIT GILLES-VILLENEUVE",
+        "lokacija":"Canada",
+        "krugovi":"70",
+        "duljina":"4.361"
+    },
+
+    {
+        "staza": "CIRCUIT DE BARCELONA-CATALUNYA",
+        "lokacija":"Spain",
+        "krugovi":"66",
+        "duljina":"4.657"
+    },
+
+    {
+        "staza": "RED BULL RING",
+        "lokacija":"Austria",
+        "krugovi":"71",
+        "duljina":"4.318"
+    },
+
+    {
+        "staza": "SILVERSTONE CIRCUIT",
+        "lokacija":"Great Britan",
+        "krugovi":"52",
+        "duljina":"5.891"
+    },
+
+    {
+        "staza": "HUNGARORING",
+        "lokacija":"Hungary",
+        "krugovi":"70",
+        "duljina":"4.381"
+    },
+
+    {
+        "staza": "CIRCUIT DE SPA-FRANCORCHAMPS",
+        "lokacija":"Belgium",
+        "krugovi":"44",
+        "duljina":"7.004    "
+    },
+
+    {
+        "staza": "CIRCUIT ZANDVOORT",
+        "lokacija":"Netherlands",
+        "krugovi":"72",
+        "duljina":"4.259"
+    },
+
+    {
+        "staza": "AUTODROMO NAZIONALE MONZA",
+        "lokacija":"Italy",
+        "krugovi":"53",
+        "duljina":"5.793"
+    },
+
+    {
+        "staza": "BAKU CITY CIRCUIT",
+        "lokacija":"Azerbaijan",
+        "krugovi":"51",
+        "duljina":"6.003"
+    },
+
+    {
+        "staza": "MARINA BAY STREET CIRCUIT",
+        "lokacija":"Singapore",
+        "krugovi":"62",
+        "duljina":"4,940"
+    },
+
+    {
+        "staza": "CIRCUIT OF THE AMERICAS",
+        "lokacija":"USA",
+        "krugovi":"56",
+        "duljina":"5.513"
+    },
+
+    {
+        "staza": "AUTÓDROMO HERMANOS RODRÍGUEZ",
+        "lokacija":"Mexico",
+        "krugovi":"71",
+        "duljina":"4.304"
+    },
+
+    {
+        "staza": "AUTÓDROMO JOSÉ CARLOS PACE",
+        "lokacija":"Brazil",
+        "krugovi":"71",
+        "duljina":"4.309"
+    },
+
+    {
+        "staza": "LAS VEGAS STRIP CIRCUIT",
+        "lokacija":"USA",
+        "krugovi":"50",
+        "duljina":"6.200"
+    },
+
+    {
+        "staza": "LUSAIL INTERNATIONAL CIRCUIT",
+        "lokacija":"Qatar",
+        "krugovi":"57",
+        "duljina":"5.419"
+    },
+
+    {
+        "staza": "YAS MARINA CIRCUIT",
+        "lokacija":"UAE",
+        "krugovi":"58",
+        "duljina":"5.281"
+    }
+
+    
+]
